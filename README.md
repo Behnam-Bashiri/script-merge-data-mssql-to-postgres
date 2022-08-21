@@ -8,4 +8,4 @@ enter data in dictionary in start program and create virtualENV
 * pyhton main.py
 
 
-* pyodbc not run in apple chipset (M1)
+* pyodbc doesnt run in apple chipset (M1)
